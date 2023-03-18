@@ -30,7 +30,7 @@ n=int(input())
 ```
 ## Output:
 
-![Screenshot_20230313_085741](https://user-images.githubusercontent.com/118348224/224755230-5ac2562b-ebd3-4e23-96ed-5cef57116081.png)
+![Screenshot_20230318_120425](https://user-images.githubusercontent.com/118348224/226089628-60610770-985a-4f15-b3e9-068e7d6d441b.png)
 
 ## Result:
 Thus the circulate-the -values-of-N-variables are sucessfully excuted.
